@@ -70,7 +70,7 @@ The browser constructs and submits the token transfers. The API verifies the tra
 Prerequisites: Node.js 24 or later and npm.
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/Uoifqq/VeloSplit.git
 cd VeloSplit/frontend
 npm ci
 npm run dev
